@@ -153,3 +153,14 @@ StopBtn.MouseButton1Click:Connect(function()
 end)
 
 print("Emote Menu successfully loaded!")
+-- Emote List (Add your Keystone emote names and Animation IDs here)
+local emotes = {
+    { Name = "Beggin", Id = 110332808230468  }, -- Replace 000000000 with the actual Animation ID
+    { Name = "Calamity", Id = 117427501134457 },
+    { Name = "Smooth-Moves", Id = 119647319491668 },
+    { Name = "The-Worm", Id = 135982756481001 },
+    { Name = "Take The L", Id = 97141998729346 },
+    { Name = "Four Lokos Dance", Id = 73063664161596 },
+    { Name = "Stink Bop", Id = 113437774099439 },
+    { Name = "Bangladesh Bop", Id = 95646213314719 },
+}
