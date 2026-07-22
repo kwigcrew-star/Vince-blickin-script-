@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kwigcrew-star/Vince-blickin-script-/main/Vinc_Emote_Hub.lua"))()
 
 -- Roblox Custom Emote Menu Script
 local Players = game:GetService("Players")
